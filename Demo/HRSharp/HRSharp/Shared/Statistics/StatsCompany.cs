@@ -1,4 +1,4 @@
-﻿namespace HRSharp.Shared
+﻿namespace HRSharp.Shared.Statistics
 {
     public class StatsCompany : StatsEmployees
     {

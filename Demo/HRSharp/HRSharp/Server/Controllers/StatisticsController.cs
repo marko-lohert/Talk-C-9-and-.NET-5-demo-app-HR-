@@ -1,5 +1,5 @@
 ﻿using HRSharp.Server.Statistics;
-using HRSharp.Shared;
+using HRSharp.Shared.Statistics;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HRSharp.Server.Controllers

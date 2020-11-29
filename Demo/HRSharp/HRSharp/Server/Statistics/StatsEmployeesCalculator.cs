@@ -1,5 +1,6 @@
 ﻿using HRSharp.Server.Controllers;
 using HRSharp.Shared;
+using HRSharp.Shared.Statistics;
 using System.Collections.Generic;
 using System.Linq;
 
